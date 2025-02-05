@@ -1,0 +1,10 @@
+langchain
+langchain-ibm
+langchain-community
+ibm-watsonx-ai
+ibm-watson-machine-learning
+tiktoken
+python-dotenv
+streamlit
+pandas
+fpdf
